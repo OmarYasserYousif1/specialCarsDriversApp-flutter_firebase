@@ -8,7 +8,7 @@
     <application
         android:label="drivers_app"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -37,7 +37,7 @@
             android:value="2" />
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDuDxriw8CH8NbVLiXtKFQ2Nb64AoRSdyg"/>
+            android:value="Your api key"/>
 
     </application>
 </manifest>

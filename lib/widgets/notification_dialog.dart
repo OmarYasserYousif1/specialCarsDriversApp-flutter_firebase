@@ -134,7 +134,7 @@ class _NotificationDialogState extends State<NotificationDialog>
 
             Image.asset(
               "assets/images/uberexec.png",
-              width: 140,
+              width: 150,
             ),
 
             const SizedBox(height: 16.0,),
